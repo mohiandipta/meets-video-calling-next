@@ -1,8 +1,8 @@
-const sidebarLinks = [
+export const sidebarLinks = [
     {
         label: 'Home',
         route: '/',
-        imgUrl: '/icons/home.svg'
+        imgUrl: '/icons/Home.svg'
     },
     {
         label: 'Upcoming',
@@ -17,12 +17,12 @@ const sidebarLinks = [
     {
         label: 'Recording',
         route: '/recordings',
-        imgUrl: '/icons/recording.svg'
+        imgUrl: '/icons/recordings.svg'
     },
     {
         label: 'Personal Room',
         route: '/personal-room',
-        imgUrl: '/icons/personal.svg'
+        imgUrl: '/icons/add-personal.svg'
     }
     
 ]
